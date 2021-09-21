@@ -14,3 +14,7 @@ Original matlab implementation and paper [here](https://github.com/metalbubble/C
 - numpy
 - matplotlib
 - opencv3
+
+## External data
+
+Download the keras [vgg16 weights](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3).
